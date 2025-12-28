@@ -8,13 +8,13 @@ Kayıtlar dosya üzerinde saklanarak program kapatılsa bile korunur.
 
 ## Özellikler
 
- Öğrenci bazlı aylık kayıt sistemi
- Kayıt ekleme  
- Kayıt iptal etme
- Mevcut kayıtları listeleme
- Dosyaya kayıt (kalıcı veri saklama)
- İç içe döngü ve matris kullanımı
-`kayitlar.txt` dosyası ile okuma/yazma işlemleri
+ -Öğrenci bazlı aylık kayıt sistemi
+ -Kayıt ekleme  
+ -Kayıt iptal etme
+ -Mevcut kayıtları listeleme
+ -Dosyaya kayıt (kalıcı veri saklama)
+ -İç içe döngü ve matris kullanımı
+-`kayitlar.txt` dosyası ile okuma/yazma işlemleri
 
 ---
 
